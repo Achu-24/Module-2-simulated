@@ -2,6 +2,6 @@ export const revalidate = false;
 
 export default function About() {
   return (
-    <h1>This is STATIC page (SSG)</h1>
+    <h1>This is a STATIC page (SSG)</h1>
   );
 }
